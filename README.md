@@ -11,7 +11,7 @@ This project is about how we built the traditonal game "Tien len mien Nam" espec
 |--------------|-------|------|
 | Trần Viết Thắng | 23521433 | [23521433@gm.uit.edu.vn](mailto:23521433@gm.uit.edu.vn) |
 | Nguyễn Quang Thắng | 23521425 | [23521425@gm.uit.edu.vn](mailto:23521425@gm.uit.edu.vn) | 
-| Lê Minh Tấn | 23522352 | [23521398@gm.uit.edu.vn](mailto:23521398@gm.uit.edu.vn) | 
+| Lê Minh Tấn | 23521398 | [23521398@gm.uit.edu.vn](mailto:23521398@gm.uit.edu.vn) | 
 
 
 `Server` Branch: `Server`
