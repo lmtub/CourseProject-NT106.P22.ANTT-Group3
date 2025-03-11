@@ -1,5 +1,5 @@
 # CourseProject-NT106.P22.ANTT-Group3
-# Group 5
+# Group 3
 ## Course: Basic Network Programming 
 ## Course ID: NT106.P22.ANTT
 # Project: "Tiến lên Miền Nam" Game
