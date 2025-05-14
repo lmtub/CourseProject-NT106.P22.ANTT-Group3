@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|c:\\users\\quang thang\\onedrive\\documents\\github\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|c:\\users\\quang thang\\onedrive\\documents\\github\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -243,7 +243,7 @@
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
               "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeToolTip": "TienLenDoAn\\CreateOrJoin.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwBoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T08:55:11.262Z",
               "EditorCaption": ""
