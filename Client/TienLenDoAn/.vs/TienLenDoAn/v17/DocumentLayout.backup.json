@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|c:\\users\\quang thang\\onedrive\\documents\\github\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Multiplay.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Multiplay.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Packet.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Packet.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Packet.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Player1.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Player1.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Player1.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\User.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\User.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TypeOfCard.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\TypeOfCard.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\TypeOfCard.cs",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Card.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Card.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Card.cs",
@@ -191,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "Multiplay.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Multiplay.cs",
@@ -203,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CreateOrJoin.cs [Design]",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
@@ -255,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CreateOrJoin.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
@@ -303,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CustomButton.cs",
               "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
