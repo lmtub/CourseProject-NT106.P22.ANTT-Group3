@@ -1,58 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TLMN\\Client\\TienLenDoAn\\",
+  "WorkspaceRootPath": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\tlmn\\client\\tienlendoan\\tienlendoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\tlmn\\client\\tienlendoan\\tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\CreateOrJoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|c:\\users\\quang thang\\onedrive\\documents\\github\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\Option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\typeofcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\typeofcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\multiplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\SinglePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\TLMN\\Client\\TienLenDoAn\\tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\Option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:TienLenDoAn\\SinglePlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,104 +103,169 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Program.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\Program.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Program.cs",
-              "RelativeToolTip": "TienLenDoAn\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Packet.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Packet.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Packet.cs",
+              "RelativeToolTip": "TienLenDoAn\\Packet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:23:56.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T14:59:04.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player1.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Player1.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Player1.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Player1.cs",
+              "RelativeToolTip": "TienLenDoAn\\Player1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowFgBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:58:56.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Playerinfo.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Playerinfo.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\Playerinfo.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Playerinfo.cs [Design]",
-              "RelativeToolTip": "TienLenDoAn\\Playerinfo.cs [Design]",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\User.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\User.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\User.cs",
+              "RelativeToolTip": "TienLenDoAn\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:16:28.245Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-13T14:58:52.056Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "TypeOfCard.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\TypeOfCard.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\TypeOfCard.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\TypeOfCard.cs",
+              "RelativeToolTip": "TienLenDoAn\\TypeOfCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:58:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Card.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Card.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Card.cs",
+              "RelativeToolTip": "TienLenDoAn\\Card.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:58:35.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\packages.config",
+              "RelativeDocumentMoniker": "TienLenDoAn\\packages.config",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\packages.config",
+              "RelativeToolTip": "TienLenDoAn\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-13T07:02:14.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Multiplay.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Multiplay.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs [Design]",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs [Design]",
               "RelativeToolTip": "TienLenDoAn\\Multiplay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T09:15:57.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomButton.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
-              "RelativeToolTip": "TienLenDoAn\\CustomButton.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T09:09:02.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateOrJoin.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
-              "RelativeToolTip": "TienLenDoAn\\CreateOrJoin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:55:11.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "CreateOrJoin.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs [Design]",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs [Design]",
               "RelativeToolTip": "TienLenDoAn\\CreateOrJoin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:55:05.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Option.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\Option.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
-              "RelativeToolTip": "TienLenDoAn\\Option.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:52:49.869Z"
+              "WhenOpened": "2025-05-12T08:55:05.618Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Option.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Option.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs [Design]",
-              "RelativeToolTip": "TienLenDoAn\\Option.cs [Design]",
+              "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T08:52:45.977Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\MainForm.cs",
+              "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:40:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Playerinfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Playerinfo.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Playerinfo.cs",
+              "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Playerinfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:16:28.245Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "SinglePlayer.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
+              "Title": "SinglePlayer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\SinglePlayer.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
+              "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:46:10.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateOrJoin.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
+              "RelativeToolTip": "TienLenDoAn\\CreateOrJoin.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:55:11.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs [Design]",
+              "RelativeToolTip": "TienLenDoAn\\CustomButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T07:03:17.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SinglePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\SinglePlayer.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
               "RelativeToolTip": "TienLenDoAn\\SinglePlayer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,52 +273,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 18,
+              "Title": "Option.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Option.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
+              "RelativeToolTip": "TienLenDoAn\\Option.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T08:52:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
+              "RelativeToolTip": "TienLenDoAn\\CustomButton.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T09:09:02.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\MainForm.Designer.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.Designer.cs",
               "RelativeToolTip": "TienLenDoAn\\MainForm.Designer.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAIsAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:46:15.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T08:46:15.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SinglePlayer.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\SinglePlayer.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs [Design]",
-              "RelativeToolTip": "TienLenDoAn\\SinglePlayer.cs [Design]",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Program.cs",
+              "RelativeDocumentMoniker": "TienLenDoAn\\Program.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Program.cs",
+              "RelativeToolTip": "TienLenDoAn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:46:10.502Z"
+              "WhenOpened": "2025-05-12T09:23:56.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\MainForm.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
+              "ToolTip": "C:\\Users\\QUANG THANG\\OneDrive\\Documents\\GitHub\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
               "RelativeToolTip": "TienLenDoAn\\MainForm.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:45:32.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
-              "RelativeDocumentMoniker": "TienLenDoAn\\MainForm.cs",
-              "ToolTip": "D:\\TLMN\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs [Design]",
-              "RelativeToolTip": "TienLenDoAn\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:40:41.83Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-12T08:45:32.896Z"
             }
           ]
         },

@@ -8,7 +8,6 @@ namespace TienLenDoAn
 {
     public class Player1
     {
-        // Token: 0x0600000C RID: 12 RVA: 0x000028C4 File Offset: 0x00000AC4
         public void SortCList(ref List<Card> CardList)
         {
             int num = CardList.Count<Card>();
@@ -129,8 +128,6 @@ namespace TienLenDoAn
             }
             return result;
         }
-
-        // Token: 0x06000014 RID: 20 RVA: 0x00002C48 File Offset: 0x00000E48
         private bool CheckX_Con_Coup(List<Card> list)
         {
             int i = 0;
