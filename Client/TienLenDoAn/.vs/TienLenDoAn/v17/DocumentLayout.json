@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|d:\\courseproject-nt106.p22.antt-group3\\client\\tienlendoan\\tienlendoan\\createorjoin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\createorjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\player1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\playerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\singleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|solutionrelative:tienlendoan\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA2A61F6-5ACF-44F9-9C77-30B0286C686C}|TienLenDoAn\\TienLenDoAn.csproj|D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\tienlendoan\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 268,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CreateOrJoin.resx",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.resx",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.resx",
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateOrJoin.Designer.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.Designer.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.Designer.cs",
@@ -147,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Multiplay.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Multiplay.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Multiplay.cs",
@@ -157,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CreateOrJoin.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
@@ -169,29 +169,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "Option.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Option.cs",
               "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Option.cs [Design]",
               "RelativeToolTip": "TienLenDoAn\\Option.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:52:45.977Z"
+              "WhenOpened": "2025-05-12T08:52:45.977Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\MainForm.cs",
               "ToolTip": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\MainForm.cs [Design]",
               "RelativeToolTip": "TienLenDoAn\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:40:41.83Z"
+              "WhenOpened": "2025-05-12T08:40:41.83Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Playerinfo.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Playerinfo.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Playerinfo.cs",
@@ -202,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SinglePlayer.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\SinglePlayer.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\SinglePlayer.cs",
@@ -213,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CreateOrJoin.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CreateOrJoin.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CreateOrJoin.cs",
@@ -226,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Card.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Card.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Card.cs",
@@ -238,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TypeOfCard.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\TypeOfCard.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\TypeOfCard.cs",
@@ -250,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\User.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\User.cs",
@@ -262,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Player1.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Player1.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Player1.cs",
@@ -274,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Packet.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\Packet.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\Packet.cs",
@@ -286,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CustomButton.cs [Design]",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
@@ -316,11 +318,12 @@
               "RelativeToolTip": "TienLenDoAn\\Option.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:52:49.869Z"
+              "WhenOpened": "2025-05-12T08:52:49.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CustomButton.cs",
               "DocumentMoniker": "D:\\CourseProject-NT106.P22.ANTT-Group3\\Client\\TienLenDoAn\\TienLenDoAn\\CustomButton.cs",
               "RelativeDocumentMoniker": "TienLenDoAn\\CustomButton.cs",
@@ -340,7 +343,8 @@
               "RelativeToolTip": "TienLenDoAn\\MainForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:46:15.278Z"
+              "WhenOpened": "2025-05-12T08:46:15.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -364,7 +368,8 @@
               "RelativeToolTip": "TienLenDoAn\\MainForm.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAkwEAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-12T08:45:32.896Z"
+              "WhenOpened": "2025-05-12T08:45:32.896Z",
+              "EditorCaption": ""
             }
           ]
         },
