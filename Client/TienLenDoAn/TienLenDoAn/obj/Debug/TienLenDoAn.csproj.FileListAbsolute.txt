@@ -259,3 +259,4 @@ C:\Users\QUANG THANG\OneDrive\Documents\GitHub\CourseProject-NT106.P22.ANTT-Grou
 C:\Users\QUANG THANG\OneDrive\Documents\GitHub\CourseProject-NT106.P22.ANTT-Group3\Client\TienLenDoAn\TienLenDoAn\bin\Debug\TienLenDoAn.exe
 C:\Users\QUANG THANG\OneDrive\Documents\GitHub\CourseProject-NT106.P22.ANTT-Group3\Client\TienLenDoAn\TienLenDoAn\bin\Debug\TienLenDoAn.pdb
 C:\Users\QUANG THANG\OneDrive\Documents\GitHub\CourseProject-NT106.P22.ANTT-Group3\Client\TienLenDoAn\TienLenDoAn\obj\Debug\TienLenD.AC0C0EDD.Up2Date
+C:\Users\QUANG THANG\OneDrive\Documents\GitHub\CourseProject-NT106.P22.ANTT-Group3\Client\TienLenDoAn\TienLenDoAn\obj\Debug\TienLenDoAn.Login.resources
