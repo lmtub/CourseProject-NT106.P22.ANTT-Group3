@@ -39,7 +39,15 @@ namespace TienLenDoAn
             this.CenterToScreen();
         }
 
-        
+        private void customButton1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void customButton1_Click_1(object sender, EventArgs e)
         {
@@ -51,7 +59,7 @@ namespace TienLenDoAn
 
         private void customButton4_Click(object sender, EventArgs e)
         {
-            this.Close();  
+            this.Close();
         }
 
         private void customButton3_Click(object sender, EventArgs e)
@@ -62,15 +70,15 @@ namespace TienLenDoAn
         bool multi = false;
         private void MultiplayButton_Click(object sender, EventArgs e)
         {
-            if(multi == false)
+            if (multi == false)
             {
                 this.Hide();
                 CreateOrJoin multiplayerForm = new CreateOrJoin(configPath);
                 multiplayerForm.FormClosed += FormChild_FormClosed;
                 multiplayerForm.Show();
-                
+
             }
-            
+
         }
         private void TienLenForm_FormClosing(object sender, FormClosingEventArgs e)
         {
