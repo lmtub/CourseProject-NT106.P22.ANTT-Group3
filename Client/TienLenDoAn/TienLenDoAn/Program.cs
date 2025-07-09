@@ -16,15 +16,7 @@ namespace TienLenDoAn
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-
-            using (var loginForm = new Login())
-            {
-                if (loginForm.ShowDialog() == DialogResult.OK)
-                {
-                    Application.Run(new TienLenForm());
-                }
-                // Nếu không OK, ứng dụng sẽ tự động thoát ở đây
-            }
+            Application.Run(new TienLenForm());
         }
     }
 }
