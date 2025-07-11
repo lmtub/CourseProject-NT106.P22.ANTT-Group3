@@ -1,0 +1,8 @@
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.csproj.AssemblyReference.cache
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.TienLenForm.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.Multiplay.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.CreateOrJoin.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.Option.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.Playerinfo.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.SinglePlayer.resources
+D:\git_thai\DoAn-Group5-NT106.P12\obj\Debug\TienLenDoAn.csproj.GenerateResource.cache
