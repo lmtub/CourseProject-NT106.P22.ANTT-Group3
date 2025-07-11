@@ -24,6 +24,28 @@ Xây dựng trò chơi bài nhiều người chơi với các chức năng: đă
 
 ---
 
+## 📡 Giao thức truyền thông (Protocol Code)
+
+| Code | Ý nghĩa |
+|------|--------|
+| `0`  | Tạo phòng mới |
+| `1`  | Vào phòng |
+| `2`  | Nhận các lá bài |
+| `3`  | Nhận các lá bài đã đánh của người khác |
+| `4`  | Nhận lượt đánh tiếp theo |
+| `5`  | Xóa các lá bài đã đánh ở giữa bàn |
+| `6`  | Có người chơi thắng |
+| `7`  | Gửi và nhận tin nhắn chat |
+| `8`  | Nhận lượt đánh đầu tiên |
+| `9`  | Gửi các lá bài còn lại sau khi có người thắng |
+| `10` | Người chơi (trừ chủ phòng) thoát game |
+| `11` | Chủ phòng thoát game |
+| `12` | Kiểm tra sự tồn tại của phòng |
+| `13` | Khởi tạo Form nếu phòng tồn tại |
+
+---
+
+
 ### Group Member:
 | Full Name | Student ID | Gmail |
 |--------------|-------|------|
