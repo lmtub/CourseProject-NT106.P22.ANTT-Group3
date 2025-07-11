@@ -16,7 +16,7 @@ Xây dựng trò chơi bài nhiều người chơi với các chức năng: đă
 |------------------------|----------------------------------------------------------|
 | **Ngôn ngữ lập trình**  | C# (Windows Forms - WinForms)                            |
 | **Giao diện người dùng**| WinForms (UI trên Windows Desktop)                       |
-| **Cơ sở dữ liệu**       | MongoDB (NoSQL, lưu thông tin người dùng, phòng chơi)   |
+| **Cơ sở dữ liệu**       | MongoDB ( lưu thông tin người dùng, phòng chơi)   |
 | **Kết nối Client-Server**| TCP/IP (`TcpClient` và `TcpListener`)                  |
 | **Hệ thống chat**       | Giao tiếp TCP real-time giữa các client                 |
 | **Xử lý luật chơi**     | Viết tay hoàn toàn bằng C#                              |
