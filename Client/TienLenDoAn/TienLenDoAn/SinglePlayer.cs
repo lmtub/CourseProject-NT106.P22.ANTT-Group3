@@ -36,11 +36,31 @@ namespace TienLenDoAn
                 int centerX = this.Location.X + (this.Width / 2);
                 int centerY = this.Location.Y + (this.Height / 2);
 
-              
+                // Playerinfo của người chơi - nằm ở right center của Singleplayer form
+                if (this.frmPlyInfo == null)
+                {
+                    this.frmPlyInfo = new Playerinfo(true);
+                    this.frmPlyInfo.StartPosition = FormStartPosition.Manual; // Đặt vị trí thủ công
+                                                                              // Đặt ở cạnh bên phải, trung tâm theo chiều dọc
+                    this.frmPlyInfo.Location = new Point(this.Location.X + this.Width * 4 / 5 - 10, centerY - (this.frmPlyInfo.Height / 2));
+                    this.frmPlyInfo.Show();
+                }
+
+                // Playerinfo của máy tính - nằm ở left center của Singleplayer form
+                if (this.frmCompInfo == null)
+                {
+                    this.frmCompInfo = new Playerinfo(false);
+                    this.frmCompInfo.StartPosition = FormStartPosition.Manual; // Đặt vị trí thủ công
+                                                                               // Đặt ở cạnh bên trái, trung tâm theo chiều dọc
+                    this.frmCompInfo.Location = new Point(this.Location.X + 13, centerY - (this.frmCompInfo.Height / 2));
+                    this.frmCompInfo.lblPlayerName.Text = "Computer";
+                    this.frmCompInfo.Show();
+                }
 
                 this.isFirstRound = false;
             }
-           
+            this.frmPlyInfo.ReturnAvatar();
+            this.frmCompInfo.ReturnAvatar();
             base.BringToFront();
             this.RemovePlayedCard();
             this.RemovePlayerCards();
@@ -65,7 +85,15 @@ namespace TienLenDoAn
 
         private void Singleplayer_FormClosing(object sender, FormClosingEventArgs e)
         {
-           
+            if (this.frmPlyInfo != null)
+            {
+                this.frmPlyInfo.Close();
+            }
+
+            if (this.frmCompInfo != null)
+            {
+                this.frmCompInfo.Close();
+            }
         }
 
         private void Singleplayer_LocationChanged(object sender, EventArgs e)
@@ -74,7 +102,27 @@ namespace TienLenDoAn
             int centerX = this.Location.X + (this.Width / 2);
             int centerY = this.Location.Y + (this.Height / 2);
 
-           
+            // Cập nhật vị trí của frmPlyInfo (Playerinfo người chơi)
+            if (this.frmPlyInfo != null && this.frmPlyInfo.Created)
+            {
+                this.frmPlyInfo.Invoke(new SinglePlayer.Relocate(this.Rec), new object[]
+                {
+                this.frmPlyInfo,
+                this.Location.X + this.Width - 7,   // Cạnh phải form Singleplayer, căn giữa theo chiều dọc
+                centerY - (this.frmPlyInfo.Height / 2)        // Căn giữa theo chiều dọc
+                });
+            }
+
+            // Cập nhật vị trí của frmCompInfo (Playerinfo máy tính)
+            if (this.frmCompInfo != null && this.frmCompInfo.Created)
+            {
+                this.frmCompInfo.Invoke(new SinglePlayer.Relocate(this.Rec), new object[]
+                {
+                this.frmCompInfo,
+                this.Location.X - frmCompInfo.Width + 7,        // Cạnh trái form Singleplayer, căn giữa theo chiều dọc
+                centerY - (this.frmCompInfo.Height / 2)        // Căn giữa theo chiều dọc
+                });
+            }
         }
 
         public void Choseobj_Click(object sender, EventArgs e)
@@ -139,9 +187,11 @@ namespace TienLenDoAn
                 this.pbrRemainTime.Visible = false;
                 this.pbxClock.Visible = false;
                 this.lblStatus.Text = "You Win!";
-           
+                this.frmPlyInfo.Win();
+                this.frmCompInfo.Lose();
                 this.Wintimes++;
-              
+                this.frmPlyInfo.lblWinNum.Text = this.Wintimes.ToString();
+                this.frmCompInfo.lblLoseNum.Text = this.Wintimes.ToString();
             }
             else
             {
@@ -386,9 +436,11 @@ namespace TienLenDoAn
                 {
                     this.UnChoseAll();
                     this.LoseTimes++;
-                   
+                    this.frmPlyInfo.lblLoseNum.Text = this.LoseTimes.ToString();
+                    this.frmCompInfo.lblWinNum.Text = this.LoseTimes.ToString();
                     this.lblStatus.Text = "You lose!";
-                  
+                    this.frmCompInfo.Win();
+                    this.frmPlyInfo.Lose();
                     this.UnClickableCards(this._Player.PlayerCard);
                     this.pbxOpponent.Visible = false;
                     this.cmdPlay.Visible = false;
@@ -427,6 +479,9 @@ namespace TienLenDoAn
 
         public Form frmOpen;
 
+        public Playerinfo frmPlyInfo;
+
+        public Playerinfo frmCompInfo;
 
         public bool right;
 
@@ -516,7 +571,17 @@ namespace TienLenDoAn
 
         private void Singlerplayer_FormClosing(object sender, FormClosingEventArgs e)
         {
-           
+            // Kiểm tra nếu frmPlyInfo đã được tạo ra thì tắt
+            if (this.frmPlyInfo != null && !this.frmPlyInfo.IsDisposed)
+            {
+                this.frmPlyInfo.Close();
+            }
+
+            // Kiểm tra nếu frmCompInfo đã được tạo ra thì tắt
+            if (this.frmCompInfo != null && !this.frmCompInfo.IsDisposed)
+            {
+                this.frmCompInfo.Close();
+            }
         }
 
         private void RecX(Form frm, int x)
