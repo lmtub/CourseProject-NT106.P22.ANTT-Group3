@@ -55,6 +55,3 @@ Xây dựng trò chơi bài nhiều người chơi với các chức năng: đă
 
 
 
-`Server` Branch: `Server`
-
-`Client` Branch: `Cilent`
